@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/zkdalj/potfolio.git/static/css/main.e5176a87.css",
+    "main.js": "/zkdalj/potfolio.git/static/js/main.57a8abfe.js",
+    "static/js/453.1407b060.chunk.js": "/zkdalj/potfolio.git/static/js/453.1407b060.chunk.js",
+    "static/media/project-4.svg": "/zkdalj/potfolio.git/static/media/project-4.c48fe2afc8cf7fb5c3f67c4144821da4.svg",
+    "static/media/project-3.svg": "/zkdalj/potfolio.git/static/media/project-3.d0b49d90d03e57d0b53ef407a34f2537.svg",
+    "static/media/project-1.svg": "/zkdalj/potfolio.git/static/media/project-1.65924c693409b8c53c1c86f27a2099b7.svg",
+    "static/media/project-2.svg": "/zkdalj/potfolio.git/static/media/project-2.56cd06ff3064b9e506664c712e7b8202.svg",
+    "static/media/experience.svg": "/zkdalj/potfolio.git/static/media/experience.abc7ddf2c18b205d821a6e4d8590bd6f.svg",
+    "static/media/certification.svg": "/zkdalj/potfolio.git/static/media/certification.d2cb368205c6a9b9a74ce21dc9018100.svg",
+    "static/media/react-icon.svg": "/zkdalj/potfolio.git/static/media/react-icon.c29b25ff9340651465019e4aed522076.svg",
+    "static/media/figma-icon.svg": "/zkdalj/potfolio.git/static/media/figma-icon.eef6a8be9d3152ddc091de631602d124.svg",
+    "static/media/workimg.svg": "/zkdalj/potfolio.git/static/media/workimg.bc3578e8119bcfcc14f5083625aacc5b.svg",
+    "static/media/bootstrap-icon.svg": "/zkdalj/potfolio.git/static/media/bootstrap-icon.838a31655d7efff5c1d22a89b6a22ee2.svg",
+    "static/media/tailwind-icon.svg": "/zkdalj/potfolio.git/static/media/tailwind-icon.6d1d1c0a98e0ac8703d61ed793c75a58.svg",
+    "static/media/html-icon.svg": "/zkdalj/potfolio.git/static/media/html-icon.38c7e004abf019393cbb554be98798e1.svg",
+    "static/media/css-icon.svg": "/zkdalj/potfolio.git/static/media/css-icon.a4d52d3c1087a6d16c998dab62020a6f.svg",
+    "static/media/js-icon.svg": "/zkdalj/potfolio.git/static/media/js-icon.39ce228abe997a26247d95c6e0a5ce24.svg",
+    "index.html": "/zkdalj/potfolio.git/index.html",
+    "static/media/logo.svg": "/zkdalj/potfolio.git/static/media/logo.bf6fcd60383acf8af6779066149f6928.svg",
+    "main.e5176a87.css.map": "/zkdalj/potfolio.git/static/css/main.e5176a87.css.map",
+    "main.57a8abfe.js.map": "/zkdalj/potfolio.git/static/js/main.57a8abfe.js.map",
+    "453.1407b060.chunk.js.map": "/zkdalj/potfolio.git/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5176a87.css",
+    "static/js/main.57a8abfe.js"
+  ]
+}
